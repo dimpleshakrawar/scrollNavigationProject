@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Kavya Barli",
+    "position": "CEO",
+    "task": "HoA",
+    "content": "Not only did I get a great product, but the experience with the team was exceptional. Its clear they value their customers, and that makes all the difference."
+  },
+  {
+    "id": 1,
+    "name": "Varun Grover",
+    "position": "Managing Director",
+    "task": "Uber Project and Lightings",
+    "content": "What I finally got is more than a product; its a partnership with a company that values its customers.Highly recommended, without a doubt."
+  },
+  {
+    "id": 2,
+    "name": "Mukul Sharma",
+    "position": "CEO",
+    "task": "Extreme Compute",
+    "content": "The team behind this service is more than just professionals; they are passionate about what they do. It's refreshing to find a company that truly cares about its customers."
+  }
+]

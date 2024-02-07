@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWv29QeahM_CaR3pkObHm8p6k-QdJlGU8ZQ&usqp=CAU",
+    "name": "Kavya Barli",
+    "position": "CEO",
+    "task": "HoA"
+  },
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4g-3ZH_1TjfN-zOuCRru2LrfrGtPbwaCsQ&usqp=CAU",
+    "name": "Varun Grover",
+    "position": "Managing Director",
+    "task": "Uber Project and Lightings"
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3qBVX4XIA8zq3LpBn64zAuOt9_IZ7_H5uA&usqp=CAU",
+    "name": "Mukul Sharma",
+    "position": "CEO",
+    "task": "Extreme Compute"
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3qBVX4XIA8zq3LpBn64zAuOt9_IZ7_H5uA&usqp=CAU",
+    "name": "Mukul Sharma",
+    "position": "CEO",
+    "task": "Extreme Compute"
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4g-3ZH_1TjfN-zOuCRru2LrfrGtPbwaCsQ&usqp=CAU",
+    "name": "Varun Grover",
+    "position": "Managing Director",
+    "task": "Uber Project and Lightings"
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWv29QeahM_CaR3pkObHm8p6k-QdJlGU8ZQ&usqp=CAU",
+    "name": "Kavya Barli",
+    "position": "CEO",
+    "task": "HoA"
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4g-3ZH_1TjfN-zOuCRru2LrfrGtPbwaCsQ&usqp=CAU",
+    "name": "Varun Grover",
+    "position": "Managing Director",
+    "task": "Uber Project and Lightings"
+  }
+]
